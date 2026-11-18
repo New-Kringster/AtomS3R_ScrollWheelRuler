@@ -3,3 +3,8 @@
 .vscode/c_cpp_properties.json
 .vscode/launch.json
 .vscode/ipch
+
+# Notes tied to the author's own machines
+SUMMARY.md
+audit.log
+logs/
